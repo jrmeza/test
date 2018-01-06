@@ -2,6 +2,6 @@
 
 int main(int argc, char *argv[])
 {
-   printf("This is Version 1\n");
+   printf("This is Version 2\n");
    return 0;
 }
